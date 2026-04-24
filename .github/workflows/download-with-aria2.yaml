@@ -1,4 +1,4 @@
-name: Download from Commit & Save to Repo
+-name: Download from Commit & Save to Repo
 on:
   push:
     branches:
